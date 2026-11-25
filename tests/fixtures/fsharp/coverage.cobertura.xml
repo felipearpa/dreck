@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="0.6" branch-rate="0.6" version="1.9" timestamp="1764000000">
+  <packages>
+    <package name="Demo" line-rate="0.6" branch-rate="0.6" complexity="6">
+      <classes>
+        <class name="Demo.Orders" filename="Orders.fs" line-rate="0.6" branch-rate="0.6" complexity="6">
+          <methods />
+          <lines>
+            <line number="4" hits="1" branch="True" condition-coverage="50% (1/2)" />
+            <line number="5" hits="0" branch="False" />
+            <line number="8" hits="2" branch="True" condition-coverage="66% (2/3)" />
+            <line number="9" hits="1" branch="False" />
+            <line number="10" hits="1" branch="False" />
+            <line number="11" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

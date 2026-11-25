@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<report name="Kover Gradle Plugin XML report for :">
+<package name="demo">
+<class name="demo/Orders" sourcefilename="Orders.kt">
+<method name="total" desc="(Ljava/lang/Integer;)I">
+<counter type="INSTRUCTION" missed="6" covered="18"/>
+</method>
+<method name="label" desc="(I)Ljava/lang/String;">
+<counter type="INSTRUCTION" missed="4" covered="4"/>
+</method>
+</class>
+</package>
+</report>
